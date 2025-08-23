@@ -37,3 +37,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a> 
 </div>
+
+
+
+## 💻 Criador de **sites, aplicativos, front-end, back-end e automações**.  
+## 🚀 Transformando ideias em projetos reais e compartilhando conhecimento.
