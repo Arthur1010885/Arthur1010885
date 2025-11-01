@@ -1,44 +1,90 @@
-## Oiii eu sou a Arthur Miguel, criador de sites aplicativo front end backend etc
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" height="180">
-</div>
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-##
-
-<div> 
-  <a href="https://www.youtube.com/@BLACK_br20" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<p align="center">
+  <a href="https://reviactyl.dev/">
+    <img width="1280" height="640" alt="Reviactyl Banner" src="https://github.com/user-attachments/assets/a02869d0-f5d3-4391-8f45-cada52aa6916" />
   </a>
-  <a href="https://instagram.com/Arthur_ivestidor" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/arthurninja8" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://discord.gg/fT94N55YRn" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:arthurmiguel137@yahoo.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> 
-</div>
+</p>
 
+<h1 align="center">🎨 Reviactyl — Criador de Temas para Pterodactyl</h1>
 
+<p align="center">
+  <strong>Personalize. Crie. Transforme.</strong><br>
+  O Reviactyl é um <b>criador e personalizador de temas</b> para o Pterodactyl — moderno, gratuito e 100% open source.
+</p>
 
-## 💻 Criador de **sites, aplicativos, front-end, back-end e automações**.  
-## 🚀 Transformando ideias em projetos reais e compartilhando conhecimento.
+---
+
+## ✨ Visão Geral
+
+O **Reviactyl** leva o painel **Pterodactyl** para outro nível, permitindo que você **crie e gerencie temas completos** com liberdade total.  
+Chega de editar CSS manualmente — aqui você **cria, visualiza e aplica** suas alterações com apenas alguns cliques.
+
+Desenvolvido sobre a base do Pterodactyl, o Reviactyl mantém **total compatibilidade** com todas as versões modernas e adiciona um **sistema modular de temas** que qualquer pessoa pode usar.
+
+---
+
+## 🚀 Recursos Principais
+
+* 🎨 **Criador de Temas:** Construa e personalize seus próprios temas direto pela interface do Reviactyl.  
+* 👀 **Visualização em Tempo Real:** Veja as mudanças acontecerem instantaneamente antes de aplicar.  
+* 🧩 **Sistema Modular:** Adicione pacotes de temas, extensões visuais e complementos criados pela comunidade.  
+* 🌍 **Multilíngue:** Totalmente traduzível para qualquer idioma.  
+* ⚙️ **Integração Fácil:** Compatível com instalações existentes do Pterodactyl.  
+* 🖥️ **Interface Moderna:** Visual limpo, responsivo e adaptado a qualquer dispositivo.  
+* 💚 **Código Aberto e Gratuito:** 100% open source, com atualizações e suporte da comunidade — sem limitações, sem cobranças.
+
+---
+
+## 💡 Por Que Escolher o Reviactyl?
+
+O Reviactyl não é apenas mais um “fork” do Pterodactyl.  
+É um **ambiente criativo** para quem quer **personalizar sua própria experiência de painel**, seja para:
+- Hospedagens de jogos 🎮  
+- Servidores pessoais 🖥️  
+- Comunidades e projetos personalizados 💼  
+
+Com o Reviactyl, **seu painel ganha identidade**.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+- **Frontend:** React + TypeScript  
+- **Backend:** PHP (Laravel)  
+- **Infraestrutura:** Docker + Go  
+- **Sistema de Temas:** Reviactyl Custom Layer (RCL)
+
+---
+
+## 💖 Patrocinadores
+
+Agradecemos aos patrocinadores que tornam o desenvolvimento do Reviactyl possível.  
+[Quer se tornar um patrocinador?](https://github.com/sponsors/reviactyl)
+
+| Empresa | Sobre |
+|----------|--------|
+| [**Tietokettu**](https://tietokettu.net/) | Empresa de hospedagem e serviços de rede fundada em 2019, oferecendo soluções acessíveis e funcionais para servidores modernos. |
+
+---
+
+## 📜 Licença
+
+- **Pterodactyl®** © 2015 - 2022 Dane Everitt e colaboradores — Licenciado sob [MIT](https://github.com/reviactyl/panel/blob/develop/PTERO_LICENSE.md)  
+- **Reviactyl™** © 2025 Reviactyl e colaboradores — Licenciado sob [MIT](https://github.com/reviactyl/panel/blob/develop/LICENSE.md)
+
+---
+
+## ⭐ Histórico de Estrelas
+
+<a href="https://www.star-history.com/#reviactyl/panel&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date" />
+  </picture>
+</a>
+
+---
+
+<p align="center">
+  🌟 <b>Reviactyl — Dê um novo visual ao seu Pterodactyl com o poder da personalização.</b> 🌟
+</p>
