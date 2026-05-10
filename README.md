@@ -1,90 +1,31 @@
+<!--================= HEADER ANIMADO =================-->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Black+BR+%7C+%F0%9F%92%80;Cybersecurity+%26+Full+Stack;Dark+Mode+Activated+%F0%9F%96%A4;Exploit+the+Night+%F0%9F%8C%99" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <a href="https://reviactyl.dev/">
-    <img width="1280" height="640" alt="Reviactyl Banner" src="https://github.com/user-attachments/assets/a02869d0-f5d3-4391-8f45-cada52aa6916" />
+  <img src="https://komarev.com/ghpvc/?username=black-br&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/black-br?tab=followers">
+    <img src="https://img.shields.io/github/followers/black-br?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
-<h1 align="center">🎨 Reviactyl — Criador de Temas para Pterodactyl</h1>
-
+<!--================= BANNER GIF =================-->
 <p align="center">
-  <strong>Personalize. Crie. Transforme.</strong><br>
-  O Reviactyl é um <b>criador e personalizador de temas</b> para o Pterodactyl — moderno, gratuito e 100% open source.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI1MjU0NzVhZjUxOWFiMTA3ZTZhY2MzZmI0MDU2YjBhNmE1NjczYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o6Ztpm5e0GX8j1q6Y/giphy.gif" width="600" alt="dark cyber gif" />
 </p>
 
 ---
 
-## ✨ Visão Geral
+### 🖤 Sobre Mim
 
-O **Reviactyl** leva o painel **Pterodactyl** para outro nível, permitindo que você **crie e gerencie temas completos** com liberdade total.  
-Chega de editar CSS manualmente — aqui você **cria, visualiza e aplica** suas alterações com apenas alguns cliques.
-
-Desenvolvido sobre a base do Pterodactyl, o Reviactyl mantém **total compatibilidade** com todas as versões modernas e adiciona um **sistema modular de temas** que qualquer pessoa pode usar.
-
----
-
-## 🚀 Recursos Principais
-
-* 🎨 **Criador de Temas:** Construa e personalize seus próprios temas direto pela interface do Reviactyl.  
-* 👀 **Visualização em Tempo Real:** Veja as mudanças acontecerem instantaneamente antes de aplicar.  
-* 🧩 **Sistema Modular:** Adicione pacotes de temas, extensões visuais e complementos criados pela comunidade.  
-* 🌍 **Multilíngue:** Totalmente traduzível para qualquer idioma.  
-* ⚙️ **Integração Fácil:** Compatível com instalações existentes do Pterodactyl.  
-* 🖥️ **Interface Moderna:** Visual limpo, responsivo e adaptado a qualquer dispositivo.  
-* 💚 **Código Aberto e Gratuito:** 100% open source, com atualizações e suporte da comunidade — sem limitações, sem cobranças.
-
----
-
-## 💡 Por Que Escolher o Reviactyl?
-
-O Reviactyl não é apenas mais um “fork” do Pterodactyl.  
-É um **ambiente criativo** para quem quer **personalizar sua própria experiência de painel**, seja para:
-- Hospedagens de jogos 🎮  
-- Servidores pessoais 🖥️  
-- Comunidades e projetos personalizados 💼  
-
-Com o Reviactyl, **seu painel ganha identidade**.
-
----
-
-## 🧠 Tecnologias Utilizadas
-
-- **Frontend:** React + TypeScript  
-- **Backend:** PHP (Laravel)  
-- **Infraestrutura:** Docker + Go  
-- **Sistema de Temas:** Reviactyl Custom Layer (RCL)
-
----
-
-## 💖 Patrocinadores
-
-Agradecemos aos patrocinadores que tornam o desenvolvimento do Reviactyl possível.  
-[Quer se tornar um patrocinador?](https://github.com/sponsors/reviactyl)
-
-| Empresa | Sobre |
-|----------|--------|
-| [**Tietokettu**](https://tietokettu.net/) | Empresa de hospedagem e serviços de rede fundada em 2019, oferecendo soluções acessíveis e funcionais para servidores modernos. |
-
----
-
-## 📜 Licença
-
-- **Pterodactyl®** © 2015 - 2022 Dane Everitt e colaboradores — Licenciado sob [MIT](https://github.com/reviactyl/panel/blob/develop/PTERO_LICENSE.md)  
-- **Reviactyl™** © 2025 Reviactyl e colaboradores — Licenciado sob [MIT](https://github.com/reviactyl/panel/blob/develop/LICENSE.md)
-
----
-
-## ⭐ Histórico de Estrelas
-
-<a href="https://www.star-history.com/#reviactyl/panel&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date" />
-  </picture>
-</a>
-
----
-
-<p align="center">
-  🌟 <b>Reviactyl — Dê um novo visual ao seu Pterodactyl com o poder da personalização.</b> 🌟
-</p>
+```javascript
+const BlackBR = {
+  nome: "Black BR",
+  local: "Brasil",
+  interesses: ["Segurança Ofensiva", "Back-end Pesado", "Automação Sombria"],
+  lema: "No silêncio da noite, o código fala.",
+  stackAtual: ["Node.js", "Python", "Docker", "Kali Linux"],
+  aprendendo: ["Rust", "OSINT profundo", "Redes Neurais"],
+  disponivelPara: ["Freelas dark", "Projetos secretos"]
+};
