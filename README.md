@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0b1020,25:0f172a,55:172033,85:1d4ed8,100:38bdf8&text=BLACK%20BR&fontColor=38bdf8&fontSize=72&fontAlignY=35&desc=Sky-Blue%20Developer%20%E2%80%A2%20Professional%20Builder%20%E2%80%A2%20Always%20Evolving&descAlignY=60&descSize=20&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0b1020,25:0f172a,55:172033,85:1d4ed8,100:38bdf8&text=BLACK%20BR&fontColor=38bdf8&fontSize=72&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%E2%80%A2%20Software%20Architect&descAlignY=60&descSize=20&animation=twinkling" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=160&lines=%E2%96%B6+Full+Stack+Developer+%7C+Software+Architect;%E2%96%B6+Building+scalable%2C+secure%2C+observable+systems;%E2%96%B6+Sky-blue+UI%2FUX%2C+Clean+Code%2C+SOLID%2C+DDD;%E2%96%B6+Performance%2C+reliability%2C+developer+experience)](https://github.com/Arthur1010885)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%E2%96%B6+Senior+Full+Stack+Developer+%7C+Software+Architect;%E2%96%B6+Building+scalable%2C+secure%2C+observable+systems;%E2%96%B6+Sky-blue+UI%2FUX%2C+Clean+Code%2C+SOLID%2C+DDD;%E2%96%B6+Performance%2C+reliability%2C+developer+experience)](https://github.com/Arthur1010885)
 
 <br/>
 
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-38bdf8?style=for-the-badge&labelColor=0b1020" />
+<img src="https://img.shields.io/badge/ROLE-Senior%20Full%20Stack%20Developer-38bdf8?style=for-the-badge&labelColor=0b1020" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-38bdf8?style=for-the-badge&labelColor=0b1020" />
 <img src="https://img.shields.io/badge/OPEN%20TO-WORK-38bdf8?style=for-the-badge&labelColor=0b1020" />
 <img src="https://komarev.com/ghpvc/?username=Arthur1010885&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge&labelColor=0b1020" />
@@ -30,7 +30,7 @@
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗    ██████╔╝██║  ██║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 
-    ► Code with identity. Build with precision. Leave a mark. ☁️💙
+   ► Senior Engineering • Sky-Blue Identity • Measurable Impact ☁️💙
 ```
 
 </div>
@@ -48,7 +48,7 @@
 const BlackBR = {
   name:      "Black BR",
   github:    "Arthur1010885",
-  role:      "Full Stack Developer",
+  role:      "Senior Full Stack Developer",
   location:  "Brasil 🇧🇷",
   style:     "Sky-Blue & Professional",
   languages: [
@@ -59,9 +59,9 @@ const BlackBR = {
     "PHP"
   ],
   focus: [
-    "Web Development",
-    "Back-End Architecture",
-    "Automation & Bots",
+    "High-Performance Web Apps",
+    "Scalable Back-End Architecture",
+    "Cloud Infrastructure & CI/CD",
     "UI/UX Sky-Blue Design"
   ],
   motto: "Code with identity."
@@ -72,24 +72,21 @@ const BlackBR = {
 <td width="50%" valign="top">
 
 ```yaml
-🧠 Currently Learning:
-  - Advanced System Architecture
-  - Cloud Infrastructure & DevOps
-  - AI & Machine Learning
-  - Microservices & REST APIs
+🧠 Advanced Focus:
+  - Microservices & REST/GraphQL APIs
+  - Distributed Systems & High Availability
+  - Database Optimization (SQL/NoSQL)
+  - Clean Architecture & SOLID Principles
 
 🎯 Goals 2025:
-  - Build impactful open source projects
-  - Contribute to the dev community
-  - Master cutting-edge technologies
-  - Deliver high-level systems
+  - Lead complex modernization projects
+  - Build impactful open source tooling
+  - Mentor developers & write engineering playbooks
 
-⚡ Fun Facts:
-  - I design better with a sky-blue palette
-  - Terminal is always clean and organized
-  - Coffee + code = perfection
-  - Git commit at 3am hits different
-  - Accessibility and polish are non-negotiable
+⚡ Professional Philosophy:
+  - Readability > Premature Optimization
+  - Observability & Testing are mandatory
+  - Deep dark backgrounds with sky-blue accents
 ```
 
 </td>
@@ -129,24 +126,21 @@ const BlackBR = {
 ![MySQL](https://img.shields.io/badge/MySQL-0b1020?style=for-the-badge&logo=mysql&logoColor=38bdf8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0b1020?style=for-the-badge&logo=mongodb&logoColor=38bdf8)
 ![Redis](https://img.shields.io/badge/Redis-0b1020?style=for-the-badge&logo=redis&logoColor=38bdf8)
-![Firebase](https://img.shields.io/badge/Firebase-0b1020?style=for-the-badge&logo=firebase&logoColor=38bdf8)
 
 ### ☁️ DevOps / Platform  
 ![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=38bdf8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b1020?style=for-the-badge&logo=githubactions&logoColor=38bdf8)
 ![Linux](https://img.shields.io/badge/Linux-0b1020?style=for-the-badge&logo=linux&logoColor=38bdf8)
 ![AWS](https://img.shields.io/badge/AWS-0b1020?style=for-the-badge&logo=amazon-aws&logoColor=38bdf8)
-![Vercel](https://img.shields.io/badge/Vercel-0b1020?style=for-the-badge&logo=vercel&logoColor=38bdf8)
 
 ### 🔧 Tools  
 ![VSCode](https://img.shields.io/badge/VSCode-0b1020?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8)
 ![Figma](https://img.shields.io/badge/Figma-0b1020?style=for-the-badge&logo=figma&logoColor=38bdf8)
 ![Postman](https://img.shields.io/badge/Postman-0b1020?style=for-the-badge&logo=postman&logoColor=38bdf8)
-![Insomnia](https://img.shields.io/badge/Insomnia-0b1020?style=for-the-badge&logo=insomnia&logoColor=38bdf8)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,nestjs,express,python,java,php,django,fastapi,mysql,postgres,mongodb,redis,firebase,docker,githubactions,linux,aws,vercel,tailwind,bootstrap,figma,postman,git,github&theme=dark&perline=16" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,nestjs,express,python,java,php,django,fastapi,mysql,postgres,mongodb,redis,docker,githubactions,linux,aws,tailwind,figma,postman,git,github&theme=dark&perline=14" />
 
 </div>
 
@@ -162,6 +156,23 @@ const BlackBR = {
 <br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1010885&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&langs_count=10" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> *Cards configurados para carregar perfeitamente sem erro de imagem.*
+
+<div align="center">
+
+<a href="https://github.com/Arthur1010885/Arthur1010885">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=Arthur1010885&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
+</a>
+<a href="https://github.com/Arthur1010885?tab=repositories">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=Arthur1010885&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
+</a>
 
 </div>
 
@@ -231,32 +242,6 @@ const BlackBR = {
 
 ---
 
-## 📌 Featured Projects (Edite com seus repositórios reais)
-
-> Substitua `SEU_REPO_1` … `SEU_REPO_4` pelos nomes EXATOS dos seus repositórios no GitHub.
-
-<div align="center">
-
-<a href="https://github.com/Arthur1010885/SEU_REPO_1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_1&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
-</a>
-<a href="https://github.com/Arthur1010885/SEU_REPO_2">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_2&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Arthur1010885/SEU_REPO_3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_3&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
-</a>
-<a href="https://github.com/Arthur1010885/SEU_REPO_4">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_4&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
-</a>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -267,3 +252,38 @@ const BlackBR = {
   <img src="https://img.shields.io/badge/Gmail-0b1020?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
 </a>
 &nbsp;&nbsp;
+<a href="https://discord.com/users/arthur10100681">
+  <img src="https://img.shields.io/badge/Discord-0b1020?style=for-the-badge&logo=discord&logoColor=38bdf8" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Arthur1010885">
+  <img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+
+<br/><br/>
+
+|  | Canal | Valor |
+|:--:|:------|:------|
+| 📧 | **Email** | amiguelcruzmartins@gmail.com |
+| 💬 | **Discord** | arthur10100681 |
+| 🐙 | **GitHub** | https://github.com/Arthur1010885 |
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- TOP DECOR ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=40&color=0:0b1020,25:0f172a,55:172033,85:1d4ed8,100:38bdf8&reversal=false" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer+%7C+Black+BR;Clean+Architecture+%7C+Scalable+Systems+%7C+Observability;Sky-blue+Product+Thinking+%7C+Measurable+Impact;amiguelcruzmartins%40gmail.com+%7C+Discord%3A+arthur10100681)](https://github.com/Arthur1010885)
+
+<br/><br/>
+
+<!-- RODAPÉ ONDAS ANIMADAS (FUNDO AZUL CÉU) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0b1020,25:0f172a,55:172033,85:1d4ed8,100:38bdf8" />
+
+</div>
