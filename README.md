@@ -164,7 +164,7 @@ const BlackBR = {
 
 ## 📌 Featured Projects
 
-> *Cards configurados para carregar perfeitamente sem erro de imagem.*
+> *Projetos em breve.*
 
 <div align="center">
 
