@@ -1,27 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,30:0a0a0a,60:0d1117,100:161b22&text=BLACK%20BR&fontColor=00ff88&fontSize=70&fontAlignY=35&desc=Dark%20Developer%20%E2%80%A2%20Professional%20Builder%20%E2%80%A2%20Always%20Evolving&descAlignY=58&descSize=20&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0b1020,25:0f172a,55:172033,85:1d4ed8,100:38bdf8&text=BLACK%20BR&fontColor=38bdf8&fontSize=72&fontAlignY=35&desc=Sky-Blue%20Developer%20%E2%80%A2%20Professional%20Builder%20%E2%80%A2%20Always%20Evolving&descAlignY=60&descSize=20&animation=twinkling" />
 
-<br>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=140&lines=%E2%96%B6+Welcome+to+my+dark+side+of+code...;%E2%96%B6+Building+systems+with+precision+%26+power;%E2%96%B6+Clean+code+%7C+Dark+style+%7C+Strong+performance;%E2%96%B6+I+don't+just+write+code+%E2%80%94+I+craft+experiences)](https://github.com/Arthur1010885)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=160&lines=%E2%96%B6+Full+Stack+Developer+%7C+Software+Architect;%E2%96%B6+Building+scalable%2C+secure%2C+observable+systems;%E2%96%B6+Sky-blue+UI%2FUX%2C+Clean+Code%2C+SOLID%2C+DDD;%E2%96%B6+Performance%2C+reliability%2C+developer+experience)](https://github.com/Arthur1010885)
 
-<br>
+<br/>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=000000)
-![Open](https://img.shields.io/badge/OPEN%20TO-WORK-00ff88?style=for-the-badge&labelColor=000000)
-![Views](https://komarev.com/ghpvc/?username=Arthur1010885&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge&labelColor=000000)
-![Followers](https://img.shields.io/github/followers/Arthur1010885?style=for-the-badge&color=00ff88&labelColor=000000&label=FOLLOWERS)
+<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20Developer-38bdf8?style=for-the-badge&labelColor=0b1020" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-38bdf8?style=for-the-badge&labelColor=0b1020" />
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK-38bdf8?style=for-the-badge&labelColor=0b1020" />
+<img src="https://komarev.com/ghpvc/?username=Arthur1010885&label=PROFILE+VIEWS&color=38bdf8&style=for-the-badge&labelColor=0b1020" />
+<img src="https://img.shields.io/github/followers/Arthur1010885?style=for-the-badge&color=38bdf8&labelColor=0b1020&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-<br>
+<br/>
 
 <div align="center">
 
-```
+```text
 ██████╗ ██╗      █████╗  ██████╗██╗  ██╗    ██████╗ ██████╗
 ██╔══██╗██║     ██╔══██╗██╔════╝██║ ██╔╝    ██╔══██╗██╔══██╗
 ██████╔╝██║     ███████║██║     █████╔╝     ██████╔╝██████╔╝
@@ -29,16 +30,14 @@
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗    ██████╔╝██║  ██║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 
-     ► Code with identity. Build with precision. Leave a mark. 🖤
+    ► Code with identity. Build with precision. Leave a mark. ☁️💙
 ```
 
 </div>
 
 ---
 
-<br>
-
-## 🖤 About Me
+## ☁️ About Me (Black BR)
 
 <div align="center">
 <table>
@@ -51,7 +50,7 @@ const BlackBR = {
   github:    "Arthur1010885",
   role:      "Full Stack Developer",
   location:  "Brasil 🇧🇷",
-  style:     "Dark & Professional",
+  style:     "Sky-Blue & Professional",
   languages: [
     "JavaScript",
     "TypeScript",
@@ -63,7 +62,7 @@ const BlackBR = {
     "Web Development",
     "Back-End Architecture",
     "Automation & Bots",
-    "UI/UX Dark Design"
+    "UI/UX Sky-Blue Design"
   ],
   motto: "Code with identity."
 };
@@ -86,11 +85,11 @@ const BlackBR = {
   - Deliver high-level systems
 
 ⚡ Fun Facts:
-  - I code better in dark mode
-  - Terminal always black and green
+  - I design better with a sky-blue palette
+  - Terminal is always clean and organized
   - Coffee + code = perfection
   - Git commit at 3am hits different
-  - Dark mode is not optional
+  - Accessibility and polish are non-negotiable
 ```
 
 </td>
@@ -98,123 +97,89 @@ const BlackBR = {
 </table>
 </div>
 
-<br>
-
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack & Tools (Sky-Blue Theme)
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1020?style=for-the-badge&logo=javascript&logoColor=38bdf8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1020?style=for-the-badge&logo=typescript&logoColor=38bdf8)
+![Python](https://img.shields.io/badge/Python-0b1020?style=for-the-badge&logo=python&logoColor=38bdf8)
+![Java](https://img.shields.io/badge/Java-0b1020?style=for-the-badge&logo=openjdk&logoColor=38bdf8)
+![PHP](https://img.shields.io/badge/PHP-0b1020?style=for-the-badge&logo=php&logoColor=38bdf8)
+![HTML5](https://img.shields.io/badge/HTML5-0b1020?style=for-the-badge&logo=html5&logoColor=38bdf8)
+![CSS3](https://img.shields.io/badge/CSS3-0b1020?style=for-the-badge&logo=css3&logoColor=38bdf8)
+![Bash](https://img.shields.io/badge/Bash-0b1020?style=for-the-badge&logo=gnubash&logoColor=38bdf8)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff88)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff88)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff88)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff88)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff88)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff88)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff88)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff88)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00ff88)
+### 🧩 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-0b1020?style=for-the-badge&logo=react&logoColor=38bdf8)
+![Next.js](https://img.shields.io/badge/Next.js-0b1020?style=for-the-badge&logo=next.js&logoColor=38bdf8)
+![Vue.js](https://img.shields.io/badge/Vue.js-0b1020?style=for-the-badge&logo=vue.js&logoColor=38bdf8)
+![Node.js](https://img.shields.io/badge/Node.js-0b1020?style=for-the-badge&logo=node.js&logoColor=38bdf8)
+![Express](https://img.shields.io/badge/Express-0b1020?style=for-the-badge&logo=express&logoColor=38bdf8)
+![NestJS](https://img.shields.io/badge/NestJS-0b1020?style=for-the-badge&logo=nestjs&logoColor=38bdf8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b1020?style=for-the-badge&logo=fastapi&logoColor=38bdf8)
+![Django](https://img.shields.io/badge/Django-0b1020?style=for-the-badge&logo=django&logoColor=38bdf8)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0b1020?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
 
-<br>
+### 🗄️ Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1020?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-0b1020?style=for-the-badge&logo=mysql&logoColor=38bdf8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b1020?style=for-the-badge&logo=mongodb&logoColor=38bdf8)
+![Redis](https://img.shields.io/badge/Redis-0b1020?style=for-the-badge&logo=redis&logoColor=38bdf8)
+![Firebase](https://img.shields.io/badge/Firebase-0b1020?style=for-the-badge&logo=firebase&logoColor=38bdf8)
 
-### 🧩 Frameworks & Libraries
+### ☁️ DevOps / Platform  
+![Docker](https://img.shields.io/badge/Docker-0b1020?style=for-the-badge&logo=docker&logoColor=38bdf8)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b1020?style=for-the-badge&logo=githubactions&logoColor=38bdf8)
+![Linux](https://img.shields.io/badge/Linux-0b1020?style=for-the-badge&logo=linux&logoColor=38bdf8)
+![AWS](https://img.shields.io/badge/AWS-0b1020?style=for-the-badge&logo=amazon-aws&logoColor=38bdf8)
+![Vercel](https://img.shields.io/badge/Vercel-0b1020?style=for-the-badge&logo=vercel&logoColor=38bdf8)
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff88)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00ff88)
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=00ff88)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff88)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00ff88)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00ff88)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00ff88)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff88)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+### 🔧 Tools  
+![VSCode](https://img.shields.io/badge/VSCode-0b1020?style=for-the-badge&logo=visual-studio-code&logoColor=38bdf8)
+![Figma](https://img.shields.io/badge/Figma-0b1020?style=for-the-badge&logo=figma&logoColor=38bdf8)
+![Postman](https://img.shields.io/badge/Postman-0b1020?style=for-the-badge&logo=postman&logoColor=38bdf8)
+![Insomnia](https://img.shields.io/badge/Insomnia-0b1020?style=for-the-badge&logo=insomnia&logoColor=38bdf8)
 
-<br>
+<br/>
 
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff88)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff88)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff88)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=00ff88)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00ff88)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff88)
-
-<br>
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff88)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88)
-![GitHub Actions](https://img.shields.io/badge/Actions-000000?style=for-the-badge&logo=githubactions&logoColor=00ff88)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff88)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff88)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00ff88)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00ff88)
-
-<br>
-
-### 🔧 Tools
-
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00ff88)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00ff88)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00ff88)
-![Insomnia](https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=00ff88)
-![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=00ff88)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00ff88)
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,express,python,java,php,django,fastapi,mysql,mongodb,postgres,redis,firebase,docker,git,github,linux,vscode,figma,vercel,tailwind,bootstrap,aws,postman&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,nestjs,express,python,java,php,django,fastapi,mysql,postgres,mongodb,redis,firebase,docker,githubactions,linux,aws,vercel,tailwind,bootstrap,figma,postman,git,github&theme=dark&perline=16" />
 
 </div>
 
-<br>
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arthur1010885&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arthur1010885&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Arthur1010885&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=ffffff&dates=9ca3af" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Arthur1010885&theme=tokyonight&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888" />
+<br/><br/>
 
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1010885&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=ffffff&langs_count=10" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur1010885&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&langs_count=10" />
 
 </div>
 
-<br>
-
 ---
 
-## 🧬 Profile Details
+## 🧬 Profile Summary
 
 <div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthur1010885&theme=github_dark" />
 
-<br>
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arthur1010885&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arthur1010885&theme=github_dark" />
-
-<br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arthur1010885&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arthur1010885&theme=github_dark&utcOffset=-3" />
 
 </div>
-
-<br>
 
 ---
 
@@ -224,13 +189,11 @@ const BlackBR = {
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Arthur1010885&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
 
-<br>
+<br/>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Arthur1010885&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
 
 </div>
-
-<br>
 
 ---
 
@@ -238,15 +201,13 @@ const BlackBR = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur1010885&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff8820&hide_border=true&custom_title=Black%20BR%20%E2%80%94%20Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur1010885&bg_color=0b1020&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf833&hide_border=true&custom_title=Black%20BR%20%E2%80%94%20Contribution%20Activity" />
 
 </div>
 
-<br>
-
 ---
 
-## 🐍 Snake Animation
+## 🐍 Snake Animation (Dark)
 
 <div align="center">
 
@@ -258,8 +219,6 @@ const BlackBR = {
 
 </div>
 
-<br>
-
 ---
 
 ## 💬 Dev Quote
@@ -270,7 +229,31 @@ const BlackBR = {
 
 </div>
 
-<br>
+---
+
+## 📌 Featured Projects (Edite com seus repositórios reais)
+
+> Substitua `SEU_REPO_1` … `SEU_REPO_4` pelos nomes EXATOS dos seus repositórios no GitHub.
+
+<div align="center">
+
+<a href="https://github.com/Arthur1010885/SEU_REPO_1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_1&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
+</a>
+<a href="https://github.com/Arthur1010885/SEU_REPO_2">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_2&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Arthur1010885/SEU_REPO_3">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_3&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
+</a>
+<a href="https://github.com/Arthur1010885/SEU_REPO_4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arthur1010885&repo=SEU_REPO_4&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8" />
+</a>
+
+</div>
 
 ---
 
@@ -278,76 +261,9 @@ const BlackBR = {
 
 <div align="center">
 
-<br>
-
-<a href="mailto:amiguelcruzmartins@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff88" />
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/arthur10100681">
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff88" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Arthur1010885">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88" />
-</a>
-
-<br><br>
-
-| | Contato | |
-|:---:|:---:|:---:|
-| 📧 | **Email** | amiguelcruzmartins@gmail.com |
-| 💬 | **Discord** | arthur10100681 |
-| 🐙 | **GitHub** | github.com/Arthur1010885 |
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=The+best+code+is+the+one+that+speaks+for+itself.;In+the+dark%2C+the+green+light+of+code+guides+the+way.;Every+commit+is+a+step+towards+greatness.;Built+different.+Built+dark.+Built+by+Black+BR.)](https://github.com/Arthur1010885)
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:000000,30:0a0a0a,60:0d1117,100:161b22" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🎬 ANIMATED DARK FOOTER — BLACK BR (Arthur1010885)                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<!-- TOP DECOR ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=40&color=0:000000,25:0a0a0a,55:0d1117,85:161b22,100:1c2128&reversal=false" />
-
 <br/>
 
-<!-- MENSAGEM FINAL ANIMADA -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer+%7C+Black+BR;Clean+Architecture+%7C+Scalable+Systems+%7C+Observability;Dark-first+Product+Thinking+%7C+Measurable+Impact;amiguelcruzmartins%40gmail.com+%7C+Discord%3A+arthur10100681)](https://github.com/Arthur1010885)
-
-<br/><br/>
-
-<!-- ASSINATURA / BADGES DE CONTATO (SÓ OS SEGUROS) -->
 <a href="mailto:amiguelcruzmartins@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Gmail-0b1020?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
 </a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/arthur10100681">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff88" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Arthur1010885">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88" />
-</a>
-
-<br/><br/>
-
-<!-- RODAPÉ ONDAS ANIMADAS (FUNDO DARK COMPLETO) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:0a0a0a,55:0d1117,85:161b22,100:1c2128" />
-
-</div>
