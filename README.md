@@ -315,3 +315,39 @@ const BlackBR = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:000000,30:0a0a0a,60:0d1117,100:161b22" />
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- 🎬 ANIMATED DARK FOOTER — BLACK BR (Arthur1010885)                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- TOP DECOR ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=40&color=0:000000,25:0a0a0a,55:0d1117,85:161b22,100:1c2128&reversal=false" />
+
+<br/>
+
+<!-- MENSAGEM FINAL ANIMADA -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=00FF88&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer+%7C+Black+BR;Clean+Architecture+%7C+Scalable+Systems+%7C+Observability;Dark-first+Product+Thinking+%7C+Measurable+Impact;amiguelcruzmartins%40gmail.com+%7C+Discord%3A+arthur10100681)](https://github.com/Arthur1010885)
+
+<br/><br/>
+
+<!-- ASSINATURA / BADGES DE CONTATO (SÓ OS SEGUROS) -->
+<a href="mailto:amiguelcruzmartins@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff88" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/arthur10100681">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff88" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Arthur1010885">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88" />
+</a>
+
+<br/><br/>
+
+<!-- RODAPÉ ONDAS ANIMADAS (FUNDO DARK COMPLETO) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,25:0a0a0a,55:0d1117,85:161b22,100:1c2128" />
+
+</div>
