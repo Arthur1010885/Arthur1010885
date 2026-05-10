@@ -48,6 +48,7 @@
 const BlackBR = {
   name:      "Black BR",
   github:    "Arthur1010885",
+  linkedin:  "linkedin.com/in/blackbrv",
   role:      "Senior Full Stack Developer",
   location:  "Brasil 🇧🇷",
   style:     "Sky-Blue & Professional",
@@ -252,6 +253,10 @@ const BlackBR = {
   <img src="https://img.shields.io/badge/Gmail-0b1020?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
 </a>
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/blackbrv">
+  <img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+</a>
+&nbsp;&nbsp;
 <a href="https://discord.com/users/arthur10100681">
   <img src="https://img.shields.io/badge/Discord-0b1020?style=for-the-badge&logo=discord&logoColor=38bdf8" />
 </a>
@@ -265,6 +270,7 @@ const BlackBR = {
 |  | Canal | Valor |
 |:--:|:------|:------|
 | 📧 | **Email** | amiguelcruzmartins@gmail.com |
+| 💼 | **LinkedIn** | https://www.linkedin.com/in/blackbrv |
 | 💬 | **Discord** | arthur10100681 |
 | 🐙 | **GitHub** | https://github.com/Arthur1010885 |
 
@@ -279,7 +285,7 @@ const BlackBR = {
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer+%7C+Black+BR;Clean+Architecture+%7C+Scalable+Systems+%7C+Observability;Sky-blue+Product+Thinking+%7C+Measurable+Impact;amiguelcruzmartins%40gmail.com+%7C+Discord%3A+arthur10100681)](https://github.com/Arthur1010885)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Senior+Full+Stack+Developer+%7C+Black+BR;Clean+Architecture+%7C+Scalable+Systems+%7C+Observability;Sky-blue+Product+Thinking+%7C+Measurable+Impact;LinkedIn%3A+linkedin.com%2Fin%2Fblackbrv;amiguelcruzmartins%40gmail.com+%7C+Discord%3A+arthur10100681)](https://www.linkedin.com/in/blackbrv)
 
 <br/><br/>
 
