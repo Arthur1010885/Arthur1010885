@@ -270,7 +270,7 @@ const BlackBR = {
 |  | Canal | Valor |
 |:--:|:------|:------|
 | 📧 | **Email** | amiguelcruzmartins@gmail.com |
-| 💼 | **LinkedIn** | https://www.linkedin.com/in/blackbrv |
+| 💼 | **LinkedIn** | www.linkedin.com/in/black-br-4b778b409 |
 | 💬 | **Discord** | arthur10100681 |
 | 🐙 | **GitHub** | https://github.com/Arthur1010885 |
 
